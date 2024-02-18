@@ -17,7 +17,8 @@ The `JK` entity represents a JK flip-flop with the following ports:
 - `CLK`: Clock input.
 - `RST`: Reset input.
 - `Q`: Output.
-
+##State Diagram
+![Screenshot 2024-02-19 024923](https://github.com/airbender117/VHDLxEmbeddedSystem/assets/94094854/35e7d5c1-a7eb-4a10-b745-dc97df854db4)
 ## Testbench (`testjk`)
 
 The testbench (`testjk`) is used to verify the functionality of the `JK` entity. It provides stimulus to the JK flip-flop and observes its output.
@@ -55,3 +56,4 @@ Each test case is simulated for a duration to allow sufficient time for the flip
 ![Screenshot from 2024-02-19 01-33-03](https://github.com/airbender117/VHDLxEmbeddedSystem/assets/94094854/f9d901f1-baa0-412c-9da5-2d59441d5038)
 
 ![Screenshot from 2024-02-19 01-33-15](https://github.com/airbender117/VHDLxEmbeddedSystem/assets/94094854/9a5e17a0-b314-4a91-b545-802f35578e0c)
+

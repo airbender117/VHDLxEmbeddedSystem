@@ -1,4 +1,4 @@
-## Write a VHDL code for a JK  flipflop.(2075 back)
+## Write a VHDL code for a JK  flipflop.
 # JK Flip-Flop
 
 This repository contains VHDL code for a JK flip-flop (`JK`) and its corresponding testbench (`testjk`).
@@ -48,12 +48,10 @@ Each test case is simulated for a duration to allow sufficient time for the flip
 
 ![Screenshot from 2024-02-19 01-32-31](https://github.com/airbender117/VHDLxEmbeddedSystem/assets/94094854/4085c32d-55aa-42aa-9b76-bc9cc6a8eda8)
 
-![Screenshot](https://github.com/airbender117/VHDLxEmbeddedSystem/assets/94094854/6d9e9c52-a591-49f4-9b0a-6584fb59ecf2)
-
+![Screenshot from 2024-02-19 01-32-42](https://github.com/airbender117/VHDLxEmbeddedSystem/assets/94094854/0fb724d4-a9e2-467d-97a0-746ea33986ad)
 
 ![Screenshot from 2024-02-19 01-32-51](https://github.com/airbender117/VHDLxEmbeddedSystem/assets/94094854/7e42fb9a-810b-4a4b-8a86-2d73a9ee8833)
 
 ![Screenshot from 2024-02-19 01-33-03](https://github.com/airbender117/VHDLxEmbeddedSystem/assets/94094854/f9d901f1-baa0-412c-9da5-2d59441d5038)
 
 ![Screenshot from 2024-02-19 01-33-15](https://github.com/airbender117/VHDLxEmbeddedSystem/assets/94094854/9a5e17a0-b314-4a91-b545-802f35578e0c)
-

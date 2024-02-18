@@ -17,7 +17,7 @@ The `JK` entity represents a JK flip-flop with the following ports:
 - `CLK`: Clock input.
 - `RST`: Reset input.
 - `Q`: Output.
-##State Diagram
+## State Diagram
 ![Screenshot 2024-02-19 024923](https://github.com/airbender117/VHDLxEmbeddedSystem/assets/94094854/35e7d5c1-a7eb-4a10-b745-dc97df854db4)
 ## Testbench (`testjk`)
 

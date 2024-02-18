@@ -43,4 +43,4 @@ The testbench includes various test cases to verify the behavior of the LCM modu
 
 Each test case is simulated for a duration sufficient to allow the LCM computation to complete and the result to be observed.
 
-![Simulation Results]( https://github.com/airbender117/VHDLxEmbeddedSystem/blob/main/lcm/lcm.png" Simulation Results")
+![Simulation Results]( https://github.com/airbender117/VHDLxEmbeddedSystem/blob/main/lcm/lcm.png " Simulation Results")

@@ -1,6 +1,6 @@
-## Write VHDL code for custom single purpose processor that calculates the Greatest Common Divisor(GCD) of two numbers as Finite State Machine.(2076 regular , 2073 ,2071,2069 regular)
+## Write VHDL code for custom single purpose processor that calculates the Greatest Common Divisor(GCD) of two numbers as Finite State Machine.
 
-# GCD (Greatest Common Divisor)
+# Greatest Common Divisor
 
 This repository contains VHDL code for a GCD (Greatest Common Divisor) calculator (`GCD`) and its corresponding testbench (`tb_gcd`).
 
@@ -15,7 +15,6 @@ The `GCD` entity represents a GCD calculator with the following ports:
 
 - `RESET`: Reset input.
 - `CLK`: Clock input.
-
 - `A`: First number input.
 - `B`: Second number input.
 - `GCD`: Result of the GCD computation output.

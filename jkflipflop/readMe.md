@@ -37,7 +37,8 @@ The testbench includes various test cases to verify the behavior of the JK flip-
 2. **Test Case 2**: Inputs `J = '1'`, `K = '0'`.
 3. **Test Case 3**: Inputs `J = '0'`, `K = '1'`.
 4. **Test Case 4**: Inputs `J = '1'`, `K = '1'`.
-5. *(Add more test cases as needed)*
+5. **Test Case 4**: Inputs `RST = '1'`.
+6. *(Add more test cases as needed)*
 
 ## Simulation Duration
 

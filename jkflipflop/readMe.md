@@ -44,4 +44,18 @@ The testbench includes various test cases to verify the behavior of the JK flip-
 
 Each test case is simulated for a duration to allow sufficient time for the flip-flop to stabilize and the output to be observed.
 
+
 ![Simulation Results](https://github.com/airbender117/VHDLxEmbeddedSystem/blob/main/jkflipflop/jk.png "Simulation Results")
+
+
+![Screenshot from 2024-02-19 01-32-31](https://github.com/airbender117/VHDLxEmbeddedSystem/assets/94094854/4085c32d-55aa-42aa-9b76-bc9cc6a8eda8)
+
+
+![Screenshot from 2024-02-19 01-32-51](https://github.com/airbender117/VHDLxEmbeddedSystem/assets/94094854/7e42fb9a-810b-4a4b-8a86-2d73a9ee8833)
+
+![Screenshot from 2024-02-19 01-33-03](https://github.com/airbender117/VHDLxEmbeddedSystem/assets/94094854/f9d901f1-baa0-412c-9da5-2d59441d5038)
+
+![Screenshot from 2024-02-19 01-33-15](https://github.com/airbender117/VHDLxEmbeddedSystem/assets/94094854/9a5e17a0-b314-4a91-b545-802f35578e0c)
+
+
+![Screenshot from 2024-02-19 01-33-22](https://github.com/airbender117/VHDLxEmbeddedSystem/assets/94094854/629c4b2f-c182-4198-a9bf-615c365891c2)

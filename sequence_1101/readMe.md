@@ -52,3 +52,7 @@ The testbench includes various test cases to verify the behavior of the Seq_1101
 Each test case is simulated for a duration to allow sufficient time for the detector to stabilize and the output to be observed.
 
 ![Simulation Results](https://github.com/airbender117/VHDLxEmbeddedSystem/blob/main/sequence_1101/sequence.png "Simulation Results")
+
+## State Diagram
+![423454690_269183562885574_949778479114786884_n](https://github.com/airbender117/VHDLxEmbeddedSystem/assets/94094854/4fbf9732-cce4-4e6d-b736-d17f7b741ef9)
+

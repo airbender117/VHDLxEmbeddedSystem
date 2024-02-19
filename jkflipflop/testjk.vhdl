@@ -45,14 +45,16 @@ begin
     K <= '0';
     wait for 200 ns;
 
-    -- test case 4
+
+    -- test case 
+    RST <= '1';
+    wait for 200 ns;
+
+    -- test case 
     J <= '1';
     K <= '1';
     wait for 200 ns;
 
-    -- test case 1
-    RST <= '1';
-    wait for 200 ns;
 
     wait;
 end process stimulus_process;

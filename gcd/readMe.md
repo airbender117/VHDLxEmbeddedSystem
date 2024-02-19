@@ -44,3 +44,7 @@ The testbench includes various test cases to verify the behavior of the GCD calc
 Each test case is simulated for a duration to allow sufficient time for the computation to finish and the result to stabilize.
 
 ![Simulation Results]( https://github.com/airbender117/VHDLxEmbeddedSystem/blob/main/gcd/gcd.png "Simulation Results")
+
+## State Diagram
+
+![423600012_771156137750131_3736053309155973051_n](https://github.com/airbender117/VHDLxEmbeddedSystem/assets/94094854/aaff92cf-45eb-445d-96e5-0f0295d0f443)

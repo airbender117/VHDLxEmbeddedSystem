@@ -18,9 +18,9 @@ The `seq_1101` entity represents a Sequence Detector with the following ports:
 - `Q0, Q1, Q2, Q3, Q4`: States
 - `currentState, nextState`: Signals
 
-## Testbench (`testjk`)
+## Testbench (`test_1101`)
 
-The testbench (`testjk`) is used to verify the functionality of the `JK` entity. It provides stimulus to the JK flip-flop and observes its output.
+The testbench (`test_1101`) is used to verify the functionality of the `seq_1101` entity. It provides stimulus to the Sequence detector and observes its output.
 
 ## Running the Testbench
 
@@ -31,7 +31,7 @@ To run the testbench:
 
 ## Test Cases
 
-The testbench includes various test cases to verify the behavior of the JK flip-flop:
+The testbench includes various test cases to verify the behavior of the Seq_1101:
 1. **Test Case 1**: Inputs `X = 1`.
 2. **Test Case 2**: Inputs `X = 0`.
 3. **Test Case 3**: Inputs `X = 1`.
@@ -49,6 +49,6 @@ The testbench includes various test cases to verify the behavior of the JK flip-
 
 ## Simulation Duration
 
-Each test case is simulated for a duration to allow sufficient time for the flip-flop to stabilize and the output to be observed.
+Each test case is simulated for a duration to allow sufficient time for the detector to stabilize and the output to be observed.
 
 ![Simulation Results](https://github.com/airbender117/VHDLxEmbeddedSystem/blob/main/sequence_1101/sequence.png "Simulation Results")

@@ -48,9 +48,9 @@ Each test case is simulated for a duration to allow sufficient time for the flip
 
 # J=0 K=O
 ![Screenshot from 2024-02-19 01-32-31](https://github.com/airbender117/VHDLxEmbeddedSystem/assets/94094854/4085c32d-55aa-42aa-9b76-bc9cc6a8eda8)
-# J=1 K=0
+# J=1 K=0,q=1
 ![Screenshot from 2024-02-19 01-32-51](https://github.com/airbender117/VHDLxEmbeddedSystem/assets/94094854/7e42fb9a-810b-4a4b-8a86-2d73a9ee8833)
-# J=0 K=1
+# J=1 K=1, q= not(q)
 ![Screenshot from 2024-02-19 01-33-03](https://github.com/airbender117/VHDLxEmbeddedSystem/assets/94094854/f9d901f1-baa0-412c-9da5-2d59441d5038)
-## J=1 K=1
+# RST=1, q=0
 ![Screenshot from 2024-02-19 01-33-15](https://github.com/airbender117/VHDLxEmbeddedSystem/assets/94094854/9a5e17a0-b314-4a91-b545-802f35578e0c)
